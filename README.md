@@ -5,7 +5,7 @@ All examples were run in **Jupyter Notebook**, and some display results (includi
 
 ---
 
-## 🐶 1. Dog CEO API — Display a Random Dog Image
+## 🐶 1. Dog CEO API - Display a Random Dog Image
 **File:** `dog_api_display.ipynb`  
 **Description:** Fetches a random dog image from the [Dog CEO API](https://dog.ceo/dog-api/) and displays it inside Jupyter Notebook.
 
@@ -20,7 +20,7 @@ https://dog.ceo/api/breeds/image/random
 
 ---
 
-## 📝 2. JSONPlaceholder API — Create a New Post
+## 📝 2. JSONPlaceholder API - Create a New Post
 **File:** `create_post.ipynb`  
 **Description:** Sends a **POST** request to [JSONPlaceholder](https://jsonplaceholder.typicode.com/) to create a fake blog post.
 
@@ -35,7 +35,7 @@ https://jsonplaceholder.typicode.com/posts
 
 ---
 
-## 🌍 3. REST Countries API — Get Country Information
+## 🌍 3. REST Countries API - Get Country Information
 **File:** `country_info.ipynb`  
 **Description:** Retrieves details about **France** using the [REST Countries API](https://restcountries.com/).
 
@@ -51,7 +51,7 @@ https://restcountries.com/v3.1/name/france
 
 ---
 
-## 📄 4. JSONPlaceholder API — Retrieve Posts
+## 📄 4. JSONPlaceholder API - Retrieve Posts
 **File:** `get_posts.ipynb`  
 **Description:** Retrieves a list of posts from JSONPlaceholder using a **GET** request and displays the first 3 posts.
 
@@ -62,11 +62,11 @@ https://jsonplaceholder.typicode.com/posts
 ---
 
 ## 🛠 Tools & Libraries Used
-- **Python** 🐍
-- `requests` — For making HTTP requests
-- `IPython.display` — For displaying images in Jupyter Notebook
-- `json` — For working with JSON data
-- **Jupyter Notebook** — For interactive API testing
+- **Python** 
+- `requests` - For making HTTP requests
+- `IPython.display` - For displaying images in Jupyter Notebook
+- `json` - For working with JSON data
+- **Jupyter Notebook** - For interactive API testing
 
 ---
 

@@ -3,8 +3,7 @@ from IPython.display import Image, display
 import requests
 
 
-response = req
-uests.get('https://dog.ceo/api/breeds/image/random')
+response = requests.get('https://dog.ceo/api/breeds/image/random')
 
 if response.status_code == 200:
     dog_data = response.json()
